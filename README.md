@@ -1,37 +1,23 @@
-# 基于SSM的学校运动会管理系统
+[点我获取源码](https://x-x.fun/e/IUd11669bakge)💕🤞
 
-#### 介绍
-采用了Java语言和MySQL数据库来实现。系统按预定的算法完成了创办运动会、广播公告公示、赛事项目拟订、报名参赛、赛后成绩录入、查看比赛成绩、院系人员的信息存储、反馈建议、访问日记等功能。
+[点我查看更多](http://blog.cyrobot.top/blog)💕🤞
 
-#### 软件架构
-软件架构说明
+#### 1.项目介绍
+- 采用了Java语言和MySQL数据库来实现。系统按预定的算法完成了创办运动会、广播公告公示、赛事项目拟订、报名参赛、赛后成绩录入、查看比赛成绩、院系人员的信息存储、反馈建议、访问日记等功能。
 
+- 关键词： 高校运动会；信息管理系统；JavaWeb；SSM
 
-#### 安装教程
+- 管理员账号密码：admin/admin
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+- 运行环境： jdk8+tomcat8+mysql+IntelliJ IDEA+maven
 
-#### 使用说明
+- 技术选型：spring+spring mvc+mybatis+bootstrap+jquery
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+#### 2.项目部署
+- 下载源码，本地电脑新建一个数据库，导入smms.sql文件至数据库中。
+- 使用IDEA打开yundong目录，修改数据库信息、模板存放路径等：/yundong/src/main/resources/dbconfig.properties
+- java依赖安装加载完成后，如果需要本地运行，自行下载tomcat9来启动，访问本地地址，能正常访问就代表已经在正常的启动运行了:
+- 后台登录 http://localhost:8080
 
-#### 参与贡献
-
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
-
-
-#### 特技
-
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+#### 3.项目部分截图
+![输入图片说明](1.png)![输入图片说明](2.png)![输入图片说明](3.png)![输入图片说明](4.png)
